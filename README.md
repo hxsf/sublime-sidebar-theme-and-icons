@@ -1,8 +1,9 @@
-# Sublime Text sidebar icons
+# Sublime Text sidebar icons and theme
 
-> The collection of file type icons for Sublime Text editor.
+> 1. The collection of file type icons for Sublime Text editor.
+> 2. The black theme sidebar.
 
-Please note that icons included in this repository are best suited with a dark background but you can [customize](https://github.com/mrliptontea/sublime-text-sidebar-icons#customizing-the-icons) them.
+Please note that icons included in this repository are best suited with a dark background but you can [customize](#customizing-the-icons) them.
 
 
 ## Installation
@@ -11,7 +12,7 @@ The purpose of this collection is to override the default icons that come with [
 
 To install the icons you'll have to clone this repo to your [Packages] folder and rename the folder's name to match your current theme's package (folder) name, like so:
 
-    git clone https://github.com/mrliptontea/sublime-text-sidebar-icons [folder name]
+    git clone https://github.com/hxsf/sublime-sidebar-theme-and-icons.git [folder name]
 
 For example, I use Predawn theme, so my `[folder name]` is `Predawn`.
 
@@ -42,16 +43,18 @@ Also there's simple Photoshop script `export-icons.jsx` that looks for layer gro
 
 For managing themes I suggest the [Themr] package, it makes changing themes and customizing them much easier.
 
-If you want me to add some icons or have any suggestions, please add [new issue](https://github.com/mrliptontea/sublime-text-sidebar-icons/issues/new).
+If you want me to add some icons or have any suggestions, please add [new issue](https://github.com/hxsf/sublime-sidebar-theme-and-icons.git/issues/new).
 Feel free to make new icons and send the full `file_type_icons.psd` if you want to share.
 
 Most of the icons I took from the great [devicons] and [devicon] sets, some are slightly modified and some are I drew myself.
 
 ## License
 
-Under [MIT Licence](https://github.com/mrliptontea/sublime-text-sidebar-icons/blob/master/LICENSE).
+Under MIT Licence.
 
 *I do not own rights for any of the logos or other images used, they belong to the rightful owners.*
+
+Thanks for [mrliptontea / sublime-text-sidebar-icons](https://github.com/mrliptontea/sublime-text-sidebar-icons)
 
 
 [Package Control]: https://packagecontrol.io/

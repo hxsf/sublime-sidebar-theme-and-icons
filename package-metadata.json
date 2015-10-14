@@ -1,0 +1,8 @@
+{
+	"description": "sidebar theme and icons",
+	"dependencies": [],
+	"sublime_text": "3",
+	"version": "1.0.0",
+	"platforms": ["windows", "osx", "linux"],
+	"url": "https://github.com/hxsf/sublime-sidebar-theme-and-icons.git"
+}
